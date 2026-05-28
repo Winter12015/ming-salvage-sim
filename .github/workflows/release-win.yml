@@ -1,5 +1,7 @@
 name: release-win
 
+# Actions activation commit for forked repository.
+
 # 在 GitHub windows runner 上打 Windows 绿色版（.exe 目录 + zip）。
 # PyInstaller 不交叉编译，Mac 打不出 .exe，故用 windows-latest runner。
 #
